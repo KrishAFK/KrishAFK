@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying BSc Comp Sci at QUB, UK (1st Year)<br>👯 I’m looking to collaborate on Beginner projects<br>🤝 I’m looking for help with C++<br>🌱 I’m currently learning C++ and Arduino Programming<br>💬 Ask me about A-Levels Basics of Coding<br>⚡ Fun fact : I recently graduated high school
+🔭 I’m currently studying BSc Comp Sci at QUB, UK (1st Year)<br>🤝 I’m looking to collaborate on Beginner projects<br>📖 I’m looking for help with C++<br>🌱 I’m currently learning C++ and Arduino Programming<br>💬 Ask me about A-Levels Basics of Coding<br>⚡ Fun fact : I recently graduated high school
 
 
 ## 🌐 Socials:
