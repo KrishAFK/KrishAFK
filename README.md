@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently studying BSc Comp Sci at QUB, UK (2nd Year)<br>🤝 I’m looking to collaborate on Beginner projects<br>📖 Seeking for help with Java<br>🌱 Actively learning C++ and Arduino Programming<br>💬 Ask me about A-Levels Basics of Coding<br>⚡ Fun fact : I recently graduated high school
 
 
