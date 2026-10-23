@@ -1,5 +1,5 @@
 # About Me:
-> I’m currently studying BSc Comp Sci at QUB, UK (2nd Year)<br>🤝 I’m looking to collaborate on Beginner projects<br>📖 Seeking for help with Java<br>🌱 Actively learning C++ and Arduino Programming<br>💬 Ask me about A-Levels Basics of Coding<br>⚡ Fun fact : My code runs on 99% coffee, 1% luck, and an undisclosed amount of Stack Overflow tabs.
+>> I’m currently studying BSc Comp Sci at QUB, UK (2nd Year)<br>🤝 I’m looking to collaborate on Beginner projects<br>📖 Seeking for help with Java<br>🌱 Actively learning C++ and Arduino Programming<br>💬 Ask me about A-Levels Basics of Coding<br>⚡ Fun fact : My code runs on 99% coffee, 1% luck, and an undisclosed amount of Stack Overflow tabs.
 
 
 ## 🌐 Socials:
